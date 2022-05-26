@@ -1,0 +1,4 @@
+hl, 0
+eps, 0.5
+epssched, exp
+lrsched, cosine

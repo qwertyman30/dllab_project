@@ -1,0 +1,5 @@
+hl, 6
+eps, 0.5
+epssched, exp
+lrsched, None
+steps, 500000
